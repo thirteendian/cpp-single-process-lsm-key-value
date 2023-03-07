@@ -16,6 +16,12 @@ using little-endian format
 ## LRU Cache
 ![](lrucache.webp)
 
+value: [Slice, * value]
+
+double linked list, final point to NULL
+
+Resize after exceed length
+
 ## LSM tree(skiplist)
 
 ![](skiplist.webp)
