@@ -3,7 +3,7 @@
 # found in the LICENSE file. See the AUTHORS file for names of contributors.
 
 cmake_minimum_required(VERSION 3.9)
-project(silkstore VERSION 1.21.0 LANGUAGES C CXX)
+project(mykvdatabase VERSION 0.0.1 LANGUAGES C CXX)
 
 # This project can use C11, but will gracefully decay down to C89.
 set(CMAKE_C_STANDARD 11)
